@@ -16,7 +16,7 @@ This is despite:
  
  * A signed-for letter to the CEO - unacknowledged
  
- * Opening an official complaint, which will be 8 weeks old on 15th August, at which point at Ofcom and the Telecoms Ombudsman get involved.
+ * Opening an official complaint, which will be 8 weeks old on 15th August, at which point at Ofcom and the [Telecoms Ombudsman][ombudsman] get involved.
  
  * Multiple "resolved" tickets, none of which has made any perceptible difference.
 
@@ -114,17 +114,17 @@ Found some useful wording on the Ofcom website, albeit describing the process of
 ### July
 
 #### Monday 1st
-Called Ofcom for advice, and was told about the 8 week rule and the process of requesting a "dead-lock letter" and referring the issue to the telecoms ombudsman. Also encouraged to contact the complaints address again, mentioning "ofcom".
+Called [Ofcom][ofcom] for advice, and was told about the 8 week rule and the process of requesting a "dead-lock letter" and referring the issue to the [telecoms ombudsman][ombudsman]. Also encouraged to contact the complaints address again, mentioning "ofcom".
 
 #### Wednesday 3rd
-Sent the CEO a signed-for letter, requesting my problem be given more attention.
+Sent the CEO a signed-for letter, requesting my problem be given more attention. (Thanks to [ceoemail.com][ceoemail] for providing the details)
 
 #### Thursday 4th
 Letter delivered (as of July 31st, still nothing to suggest it had any effect)
 Another email to the complaints address, mentioning "ofcom" and "ombudsman", but it had no discernable effect.
 
 #### Friday 5th
-Discovered the "Resolver" service and used it to register a complaing, but dissappointed to find it seems to be nothing more than a web interface to the email address I'd already used.
+Discovered the ["Resolver"][resolver] service and used it to register a complaint, but disappointed to find it seems to be nothing more than a web interface to the email address I'd already used.
 
 <away for a while>
 
@@ -157,3 +157,9 @@ For the first time I am provided with an update without having to ask for it. Sa
 
 #### Monday 5th
 Enquired as to the progress of the latest ticket, noting that I have not yet been called.
+
+
+[ofcom]: https://www.ofcom.org.uk/make-a-complaint/complain-about-mobile-phone-or-internet-services/
+[ombudsman]: https://www.commsombudsman.org
+[ceoemail]: https://www.ceoemail.com/s.php?id=ceo-9614&c=O2-Chief%20Executive
+[resolver]: https://www.resolver.co.uk
