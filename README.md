@@ -42,45 +42,45 @@ Works fine
 
 ### June
 
-Monday 3rd
+#### Monday 3rd
 Rolling plan SIM activated
 
-Tuesday 4th
+#### Tuesday 4th
 Activation "completed", but phone still thinks it has the temporary number. Called support, promised a resolution within 24 hours.
 
-Wednesday 5th
+#### Wednesday 5th
 Still not working. Phoned support, persuaded back on to a (discounted) monthly tarif as the best path to resolution.
 
-Thursday 6th
+#### Thursday 6th
 Pay-monthly SIM activation call - told to expect it to go live within 24 hours.
 
-Friday 7th
+#### Friday 7th
 Received an "order confirmation" SMS. My phone can make and receive calls, but doesn't know its own number so can't iMessage or FaceTime.
 
-Saturday 8th, Sunday 9th
+#### Saturday 8th, Sunday 9th
 Tried all the recommended solutions - manually enter number, reset network settings, reboot phone, remove + replace SIM. Wait patiently without changing anything. No change.
 
-Monday 10th
+#### Monday 10th
 Another helpdesk call to report current status. No progress.
 
-Tuesday 11th
+#### Tuesday 11th
 42 minute call in which I immediately requested to speak to a supervisor, which was politely refused and deflected. A tech support ticket was raised and an update promised for the next day or Saturday.
 
-Wednesday 12th
+#### Wednesday 12th
 No callback
 
-Saturday 15th
+#### Saturday 15th
 Still no callback
 
-Monday 17th
+#### Monday 17th
 Another helpdesk call, this time to be told that the previous ticket had been raised incorrectly and would take 10 days to process. A "back office" ticket was raised in its place, with a 4..24 hour promise.
 
-Tuesday 18th
+#### Tuesday 18th
 A confusing combination of events:
  * an SMS announcing that my number has been ported
  * a callback from yesterday's helpdesk telling me the number has been disconnected (I think they were accidentally referring to the SIM's original number?) and another callback was promised.
  
-Wednesday 19th
+#### Wednesday 19th
 No callback.
 There's 3 ways of querying your balance:
 
@@ -92,19 +92,19 @@ All 3 were giving me very different output, so I called the helpdesk to see abou
 
 That would be the last time I was able to send or receive a text (or for that matter, login to my O2 account, because it requires SMS authentication).
 
-Thursday 20th
+#### Thursday 20th
 Found the complaints email address (complaintreviewservice@o2.com) and sent the team there a message explaining my dissatisfaction. Quickly received automated reply, claiming I should see a response within 7 days. (As of July 31st, this is now at 41 days, without response)
 
-Saturday 22nd
+#### Saturday 22nd
 Asked via Twitter to speak to somebody in the UK, but told the only option was the helpline.
 
-Monday 24th
+#### Monday 24th
 Another helpline call, totalling 54 minutes. Queries regarding the previously opened tickets were confusing, claiming the ticket wasn't opened until the 20th (was actually the 17th)
 
-Tuesday 25th, Thursday 27th
+#### Tuesday 25th, Thursday 27th
 Interactions over Twitter, containing assurances that the urgency of fixing this was being conveyed on tickets.
 
-Friday 28th
+#### Friday 28th
 Sent an email to the CEO (lutz.schueler@virginmedia.co.uk) - no response to date.
 
 Found some useful wording on the Ofcom website, albeit describing the process of moving a number between providers:
@@ -113,39 +113,39 @@ Found some useful wording on the Ofcom website, albeit describing the process of
 
 ### July
 
-Monday 1st
+#### Monday 1st
 Called Ofcom for advice, and was told about the 8 week rule and the process of requesting a "dead-lock letter" and referring the issue to the telecoms ombudsman. Also encouraged to contact the complaints address again, mentioning "ofcom".
 
-Wednesday 3rd
+#### Wednesday 3rd
 Sent the CEO a signed-for letter, requesting my problem be given more attention.
 
-Thursday 4th
+#### Thursday 4th
 Letter delivered (as of July 31st, still nothing to suggest it had any effect)
 Another email to the complaints address, mentioning "ofcom" and "ombudsman", but it had no discernable effect.
 
-Friday 5th
+#### Friday 5th
 Discovered the "Resolver" service and used it to register a complaing, but dissappointed to find it seems to be nothing more than a web interface to the email address I'd already used.
 
 <away for a while>
 
 From this point onwards, all interactions have been via Twitter DMs.
 
-Monday 22nd
+#### Monday 22nd
 Enquired about progress (via Twitter DM)
 
-Tuesday 23rd
+#### Tuesday 23rd
 Had to explain the whole situation from scratch, again.
 
-Wednesday 24th
+#### Wednesday 24th
 Another ticket has been created and a promise made that I will be updated.
 
-Tuesday 30th
+#### Tuesday 30th
 Almost another week has gone by - surely progress has been made?
 Two prongs of attack today:
  * I emailed the complaints service again, pointing out that I do not consider the complaint resolved and that it has been 40 days with no contact.
  * Enquired about the progress of last Wednesday's ticket only to be told it has been closed. Another new ticket is opened and escalated.
  
-Wednesday 31st
+#### Wednesday 31st
 For the first time I am provided with an update without having to ask for it. Sadly that update is disappointing in two ways:
 
  * It is announcing that the ticket has been resolved (and yet still my phone is unusable)
@@ -153,3 +153,7 @@ For the first time I am provided with an update without having to ask for it. Sa
  
 *Another* new ticket is raised, along with assurances that *this* ticket is with the right team.
 
+### August
+
+#### Monday 5th
+Enquired as to the progress of the latest ticket, noting that I have not yet been called.
