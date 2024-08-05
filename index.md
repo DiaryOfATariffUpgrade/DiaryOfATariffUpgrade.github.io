@@ -171,3 +171,5 @@ For the first time I am provided with an update without having to ask for it. Sa
 
 #### Monday 5th
 Enquired as to the progress of the latest ticket (#4), noting that I have not yet been called.
+
+For the first time in this process somebody has reached out to me directly - maybe we're about to make meaningful progress, finally.
