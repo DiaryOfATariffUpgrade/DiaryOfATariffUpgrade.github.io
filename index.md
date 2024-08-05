@@ -24,7 +24,14 @@ This is despite:
  * Multiple "resolved" tickets, none of which has made any perceptible difference.
  
 <B>NOTE</B>:<br/>
-Everybody I have directly dealt with throughout this process has been polite, understanding and helpful - I have no complaint with them. However, that does not mean this process hasn't been <b><i>incredibly</i></b> frustrating. Porting a number between providers is supposed to take less than 24 hours. Switching tariffs with the same provider has taken 8 weeks (and counting). The problem seems to be that the mechanisms and processes of the inner workings of O2 serve as a barrier to resolution, rather than an enabler. 
+Everybody I have directly dealt with throughout this process has been polite, understanding and helpful - I have no complaint with them. However, that does not mean this process hasn't been <b><i>incredibly</i></b> frustrating. Porting a number between providers is [supposed to take less than 24 hours](https://www.ofcom.org.uk/phones-and-broadband/switching-provider/switching-mobile).
+
+> Compensation if your switch is delayed<br/>
+> If the switch takes more than one working day or there is an abuse of the process by your provider, you are entitled to reasonable compensation from your provider. Providers must inform customers how to access this compensation and how it will be paid.
+
+Switching tariffs <i>without</i> changing provider has taken 8 weeks (and counting).
+
+The problem seems to be that the mechanisms and processes of the inner workings of O2 serve as a barrier to resolution, rather than an enabler. 
 
 ## Current status
 
@@ -32,7 +39,7 @@ Everybody I have directly dealt with throughout this process has been polite, un
 I can make a call from my phone, and the receiver sees it as originating from my number.
 
 ### Receiving calls
-Attempts to call my number, for example from a landline result in the audio message:
+Attempts to call my number fail to connect, resulting in an audio message such as:
 
  > "The number you have dialed has not been recognised"
 
@@ -47,7 +54,7 @@ Works fine
 ### Tickets raised
 4 that I know of. None have made a detectable difference.
 
-## The history
+## The full history
 
 ### June
 
@@ -73,7 +80,7 @@ Tried all the recommended solutions - manually enter number, reset network setti
 Another helpdesk call to report current status. No progress.
 
 #### Tuesday 11th
-42 minute call in which I immediately requested to speak to a supervisor, which was politely refused and deflected. A tech support ticket was raised and an update promised for the next day or Saturday.
+42 minute call in which I immediately requested to speak to a supervisor, which was politely refused and deflected. A tech support ticket (#1) was raised and an update promised for the next day or Saturday.
 
 #### Wednesday 12th
 No callback
@@ -82,7 +89,7 @@ No callback
 Still no callback
 
 #### Monday 17th
-Another helpdesk call, this time to be told that the previous ticket had been raised incorrectly and would take 10 days to process. A "back office" ticket was raised in its place, with a 4..24 hour promise.
+Another helpdesk call, this time to be told that the previous ticket had been raised incorrectly and would take 10 days to process. A "back office" ticket was raised in its place, with a 4..24 hour promise (ticket #2).
 
 #### Tuesday 18th
 A confusing combination of events:
@@ -102,7 +109,7 @@ All 3 were giving me very different output, so I called the helpdesk to see abou
 That would be the last time I was able to send or receive a text (or for that matter, login to my O2 account, because it requires SMS authentication).
 
 #### Thursday 20th
-Found the complaints email address ([complaintreviewservice@o2.com](mailto:complaintreviewservice@o2.com)) and sent the team there a message explaining my dissatisfaction. Quickly received automated reply, claiming I should see a response within 7 days. (As of July 31st, this is now at 41 days, without response)
+Found the complaints email address ([complaintreviewservice@o2.com](mailto:complaintreviewservice@o2.com)) and sent the team there a message explaining my dissatisfaction. An automated reply was quickly sent out, claiming I should see a response within 7 days. (As of July 31st, this is now at 41 days, without response)
 
 #### Saturday 22nd
 Asked via Twitter to speak to somebody in the UK, but told the only option was the helpline.
@@ -140,38 +147,27 @@ Discovered the ["Resolver"](https://www.resolver.co.uk) service and used it to r
 <B>NOTE</B>:<br/>
 From this point onwards all interactions have been via Twitter (generally DMs), unless otherwise stated.
 
-
-#### Monday 22nd
-
-Enquired about progress.
-
 #### Tuesday 23rd
-Had to explain the whole situation from scratch, again.
+Enquired about progress (actually sent the message yesterday, but after 5pm so fair enough). Had to explain the whole situation from scratch, again.
 
 #### Wednesday 24th
-Another ticket has been created and a promise made that I will be updated.
+Another ticket has been created (ticket #3) and a promise made that I will be updated.
 
 #### Tuesday 30th
 Almost another week has gone by - surely progress has been made?
 Two prongs of attack today:
  * I emailed the complaints service again, pointing out that I do not consider the complaint resolved and that it has been 40 days with no contact.
- * Enquired about the progress of last Wednesday's ticket only to be told it has been closed. Another new ticket is opened and escalated.
+ * Enquired about the progress of last Wednesday's ticket only to be told it has been closed. Another new ticket is opened and escalated (ticket #4).
  
 #### Wednesday 31st
 For the first time I am provided with an update without having to ask for it. Sadly that update is disappointing in two ways:
 
  * It is announcing that the ticket has been resolved (and yet still my phone is unusable)
- * It is actually referring to the Wednesday 24th ticket, which we already know is closed.
+ * It is actually referring to the Wednesday 24th ticket (ticket #3), which we already know is closed.
  
 *Another* new ticket is raised, along with assurances that *this* ticket is with the right team.
 
 ### August
 
 #### Monday 5th
-Enquired as to the progress of the latest ticket, noting that I have not yet been called.
-
-
-[ofcom]: https://www.ofcom.org.uk/make-a-complaint/complain-about-mobile-phone-or-internet-services/
-[ombudsman]: https://www.commsombudsman.org
-[ceoemail]: https://www.ceoemail.com/s.php?id=ceo-9614&c=O2-Chief%20Executive
-[resolver]: https://www.resolver.co.uk
+Enquired as to the progress of the latest ticket (#4), noting that I have not yet been called.
