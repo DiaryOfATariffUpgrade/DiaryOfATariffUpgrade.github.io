@@ -110,9 +110,6 @@ The problem seems to be that the mechanisms and processes of the inner workings 
 
 Porting a number between providers is [supposed to take less than 24 hours](https://www.ofcom.org.uk/phones-and-broadband/switching-provider/switching-mobile).
 
-> **Compensation if your switch is delayed**<br/>
-> If the switch takes more than one working day or there is an abuse of the process by your provider, you are entitled to reasonable compensation from your provider. Providers must inform customers how to access this compensation and how it will be paid.
-
 Surely staying with the same provider makes the process simpler?
 
 Despite having an alternative contact number listed on my account, at no point has anybody with the knowledge and tools to fix this actually called me.
@@ -187,9 +184,10 @@ Interactions over Twitter, containing assurances that the urgency of fixing this
 #### Friday 28th
 Sent an email to the CEO ([lutz.schueler@virginmedia.co.uk](mailto:lutz.schueler@virginmedia.co.uk)) - no response to date.
 
-Found some useful wording on the Ofcom website, albeit describing the process of moving a number between providers:
+Found some useful wording on the Ofcom website, albeit describing the process of moving a number _between_ providers:
 
- > If the switch takes more than one working day or there is an abuse of the process by your provider, you are entitled to reasonable compensation from your provider. Providers must inform customers how to access this compensation and how it will be paid.
+> **Compensation if your switch is delayed**<br/>
+> If the switch takes more than one working day or there is an abuse of the process by your provider, you are entitled to reasonable compensation from your provider. Providers must inform customers how to access this compensation and how it will be paid.
 
 ### July
 
@@ -240,11 +238,12 @@ Given assurances that the current ticket is __*definitely*__ with the right team
 #### Monday 5th
 Enquired as to the progress of the latest ticket (#4), noting that I have not yet been called.
 
-(2.5 hours later) For the first time in this process somebody from an internal team has reached out to me directly - maybe we're about to make meaningful progress.
+(2.5 hours later) For the first time in this process somebody from an internal team has reached out to me by email - maybe we're about to make meaningful progress?
 
 #### Wednesday 7th
 Disappointed not to have had any sort of progress report, I enquired whether any additional information was required and was told *"They will be in contact shortly once they have a response (from the support team)"*
 
 #### Monday 12th
-As "shortly" has well and truly expired, enquired again...
-Published this page to document the process, so as to avoid repeating myself for every new person I deal with.
+As "shortly" has well and truly expired, I requested an update (by email) as to the progress made since last Monday.
+
+(Also published this page to document the process, so as to avoid repeating myself for every new person I deal with)
