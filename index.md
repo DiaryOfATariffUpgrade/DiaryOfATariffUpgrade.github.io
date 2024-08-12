@@ -16,9 +16,13 @@ layout: home
    		const days = totalDays - 7 * weeks;
    		if (weeks != 0) {
    			writePlural(weeks, "week");
-			document.write(", ");
+   			if (days != 0) {
+				document.write(", ");
+			}
 		}
-		writePlural(days, "day");
+		if (days != 0) {
+			writePlural(days, "day");
+		}
    	}
 
    	function writePlural(count, unit) {
@@ -86,9 +90,9 @@ Now, <b><script>weeksAndDaysSince("03 Jun 2024")</script></b> weeks later, I <i>
 
 This is despite:
 
- * Many calls to the helpline, totalling over 5 hours including multiple unfulfilled promises of callbacks (3 promised, 1 received).
+ * Many calls to the helpline, totalling over 5 hours and including multiple unfulfilled promises of callbacks (3 promised, 1 received).
  
- * Opening an official complaint*, currently <script>weeksAndDaysSince("20 Jun 2024")</script> old. When it reaches 8 weeks old, on 15th August, Ofcom and the [Telecoms Ombudsman](https://www.commsombudsman.org) get involved.
+ * Opening an official complaint*, currently <script>weeksAndDaysSince("20 Jun 2024")</script> old. When/if it reaches 8 weeks old, on 15th August, Ofcom and the [Telecoms Ombudsman](https://www.commsombudsman.org) can get involved.
 
    *&nbsp; _"We aim to respond within 7 days"_
  
