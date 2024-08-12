@@ -244,6 +244,6 @@ Enquired as to the progress of the latest ticket (#4), noting that I have not ye
 Disappointed not to have had any sort of progress report, I enquired whether any additional information was required and was told *"They will be in contact shortly once they have a response (from the support team)"*
 
 #### Monday 12th
-As "shortly" has well and truly expired, I requested an update (by email) as to the progress made since last Monday.
+As "shortly" has well and truly expired, I requested an update (by email) as to the progress made since last Monday. The response was _"we'll let you know"_, so I replied requesting some urgency as today marks the 10 week point.
 
 (Also published this page to document the process, so as to avoid repeating myself for every new person I deal with)
