@@ -6,12 +6,21 @@ layout: home
 ---
 
 <script>
+    function weeksAndDaysWithoutService() {
+    	weeksAndDaysBetween(Date.parse("03 Jun 2024"), Date.parse("13 Aug 2024"));
+    }
+    
    	function daysSince(start) {
 		writePlural(elapsedDays(start), "day");
    	}
 
    	function weeksAndDaysSince(start) {
-   		const totalDays = elapsedDays(start);
+	   	const startDate = Date.parse(start);   	
+	   	weeksAndDaysBetween(startDate, Date.now());
+   	}
+   	
+   	function weeksAndDaysBetween(startDate, endDate) {
+   		const totalDays = elapsedDaysBetween(startDate, endDate);
    		const weeks = Math.floor(totalDays / 7);
    		const days = totalDays - 7 * weeks;
    		if (weeks != 0) {
@@ -22,7 +31,7 @@ layout: home
 		}
 		if (days != 0) {
 			writePlural(days, "day");
-		}
+		}   	
    	}
 
    	function writePlural(count, unit) {
@@ -31,12 +40,16 @@ layout: home
 			document.write("s");
 		}
    	}
-
+    
 	function elapsedDays(start) {
 	   	const startDate = Date.parse(start);
    		const now = Date.now();
-   		return Math.floor((now - startDate) / 60 / 60 / 24 / 1000);
+   		return elapsedDaysBetween(startDate, now);
    	}
+
+    function elapsedDaysBetween(startDate, endDate) {
+   		return Math.floor((endDate - startDate) / 60 / 60 / 24 / 1000);    
+    }
 
    	function daysSinceComplaint() {
    		daysSince("10 Jun 2024 GMT");
@@ -49,11 +62,10 @@ On June 3rd I began the process of switching to a tariff with more data allowanc
 
 Ofcom states that porting a number from one network *to another* should take less than 24 hours and that compensation should be offered whenever that is not the case. I stayed with the *__same__* network, which feels like it should be a safer, quicker process.
 
-So far, I have not had a working service for **<script>weeksAndDaysSince("03 Jun 2024")</script>**.
+<strike>So far, I have not had a working service for <b><script>weeksAndDaysSince("03 Jun 2024")</script></b>.</strike><br/>
+**UPDATE**: As of August 13th, my service has finally seems to be working! Nobody from O2 has actually contacted me yet to announce/confirm this though, so maybe they're not done tweaking things...
 
 All I want is my old number working as it did at the end of May, with a higher data allowance and a revised bill.
-
-**UPDATE**: As of August 13th, my service has finally seems to be working! Nobody from O2 has actually contacted me yet to announce/confirm this though, so maybe they're not done tweaking things...
 
 ## Current Status
 
@@ -88,7 +100,7 @@ Works fine
 
 On June 3rd I received the new SIM I had requested to move to an O2 rolling plan as I wanted more data than my current, years-old O2 monthly plan offered. Porting my original number over to that new plan didn't work. To address that, I was encouraged to switch to an un-publicised, discounted pay-monthly tarif, which I accepted.
 
-Now, <b><script>weeksAndDaysSince("03 Jun 2024")</script></b> weeks later, I <i>still</i> do not have working service.
+<strike>Now, <b><script>weeksAndDaysWithoutService()</script></b> weeks later, I <i>still</i> do not have working service.</strike><br/>
 
 This is despite:
 
