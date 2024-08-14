@@ -79,6 +79,8 @@ I can make a call from my phone, and the receiver sees it as coming from my numb
 Attempts to call my number fail to connect, resulting in an audio message such as:
 
  > "The number you have dialed has not been recognised"
+ 
+ This is indicative that the network isn't even _trying_ to reach my phone, not that my phone itself is misconfigured. I have had to explain this multiple times.
 
 #### Sending and receiving SMS messages
 Neither works. Attempts to send a message result in the message being flagged as _"Not delivered"_ and _"Your message was not sent"_. In a world where so many online services (e.g. your bank) use SMS for two-factor authentication, this is problematic.
