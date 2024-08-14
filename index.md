@@ -53,6 +53,8 @@ So far, I have not had a working service for **<script>weeksAndDaysSince("03 Jun
 
 All I want is my old number working as it did at the end of May, with a higher data allowance and a revised bill.
 
+**UPDATE**: As of August 3rd, my service has finally started working. Nobody from O2 has actually contacted me yet to announce/confirm this.
+
 ## Current Status
 
 #### New SIM
@@ -247,3 +249,8 @@ Disappointed not to have had any sort of progress report, I enquired whether any
 As "shortly" has well and truly expired, I requested an update (by email) as to the progress made since last Monday. The response was _"we'll let you know"_, so I replied requesting some urgency as today marks the 10 week point.
 
 (Also published this page to document the process, so as to avoid repeating myself for every new person I deal with)
+
+#### Tuesday 13th
+My phone randomly popped up a "Do you want to use this number for Facetime?" alert, which prompted me to try ringing my number from another phone. And it worked! I sent an SMS and got a reply too! No actual update from O2 themselves yet, so keeping my fingers crossed and waiting to see what they have to say.
+
+
