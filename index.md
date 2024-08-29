@@ -267,7 +267,7 @@ My phone randomly popped up a "Do you want to use this number for Facetime?" ale
 
 #### Wednesday 14th
 Requested refund for undelivered service. Arranged for 6 months of Disney+ (always part of the deal, but the ability to choose it lapsed while I had no access to m account).
-Suggested they might like to make a goodwill gesture to reflect the awful experience, inconvenience and told that the refund was all the "compensation" they (the social media team) could provide. They did suggest I could raise an official complaint.
+Suggested they might like to make a goodwill gesture to reflect the awful experience, inconvenience and was told that the refund was all the "compensation" they (the social media team) could provide. They did suggest I could raise an official complaint...
 
 #### Thursday 29th
 Wrote a physical letter to the complaints department this time (harder to ignore?) and sent it signed-for. Explained the 10 weeks, the effort required, the expense incurred and included all of the Twitter chat, as well as this diary. Total 17 pages.
