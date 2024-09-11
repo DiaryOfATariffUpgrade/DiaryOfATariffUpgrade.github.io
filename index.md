@@ -272,3 +272,20 @@ Suggested they might like to make a goodwill gesture to reflect the awful experi
 #### Thursday 29th
 Wrote a physical letter to the complaints department this time (harder to ignore?) and sent it signed-for. Explained the 10 weeks, the effort required, the expense incurred and included all of the Twitter chat, as well as this diary. Total 17 pages.
 Set a date in the calendar 8 weeks from now, expecting to have to go down the "dead-lock" letter + ombudsman route.
+
+#### Friday 30th
+Received an SMS saying:
+
+> Unfortunately, we never heard back from you when we followed up on the issue you reported (ticket #4), so we've now had to close this request down. Please get back in touch if you still need help.
+
+They made contact via email, which I did respond to. There was a back-and-forth, so they absolutely *do* know that I responded. Did they try to make contact via text, while SMS was broken? 🥴
+
+A query from me (via email) yielded the response:
+
+> Having reviewed the case from <person>, you’re correct.
+> It appears to have been an oversight on their behalf.
+> There is nothing new/outstanding on any other reference numbers.
+> 
+> Apoloigies for any inconvenience it caused.
+
+Also, the signed-for complaint was "signed" for, by "Percy". Based on previous experiences with the complaints department (i.e. no response what-so-ever), I expect to be requesting a "dead-lock" letter on 23rd October. Presumably if *that* request is ignored, I can write to Ofcom directly?
